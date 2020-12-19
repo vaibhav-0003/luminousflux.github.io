@@ -176,6 +176,20 @@ p {
   margin: 20px 10px;
 }
 
+.social-icony {
+  margin: 20px 10px;
+  color: #1b1b1bce;
+}
+
+.social-iconx {
+  margin-top: 7px ;
+  color: rgba(151, 146, 146, 0.829);
+}
+.social-iconx:hover {
+  color: #d8d8dace;
+}
+
+
 @media (max-width: 1028px) {
 
   #title {
